@@ -18,7 +18,7 @@ int main() {
 	scanf("%s", a);
 	printf("Enter the second string : ");
 	scanf("%s", b);
-	for (i=0; a[i] !='\0'; j++ )                                                // Complete the code in for
+	for (i=0; a[i] !='\0'; i++ )                                                // Complete the code in for
            { 
    c[i]=a[i];
 		              
